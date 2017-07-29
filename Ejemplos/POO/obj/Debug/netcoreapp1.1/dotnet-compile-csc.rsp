@@ -7,8 +7,8 @@
 -debug:portable
 -nostdlib
 -nologo
-"/home/sarina/2DO Semestre 2017/IPC2/IPC2_A/POO/obj/Debug/netcoreapp1.1/dotnet-compile.assemblyinfo.cs"
--out:"/home/sarina/2DO Semestre 2017/IPC2/IPC2_A/POO/bin/Debug/netcoreapp1.1/POO.dll"
+"/home/sarina/2DO Semestre 2017/IPC2/IPC2_A/Ejemplos/POO/obj/Debug/netcoreapp1.1/dotnet-compile.assemblyinfo.cs"
+-out:"/home/sarina/2DO Semestre 2017/IPC2/IPC2_A/Ejemplos/POO/bin/Debug/netcoreapp1.1/POO.dll"
 -r:"/home/sarina/.nuget/packages/Microsoft.CSharp/4.3.0/ref/netstandard1.0/Microsoft.CSharp.dll"
 -r:"/home/sarina/.nuget/packages/Microsoft.VisualBasic/10.1.0/ref/netstandard1.1/Microsoft.VisualBasic.dll"
 -r:"/home/sarina/.nuget/packages/Microsoft.Win32.Primitives/4.3.0/ref/netstandard1.3/Microsoft.Win32.Primitives.dll"
@@ -82,8 +82,8 @@
 -r:"/home/sarina/.nuget/packages/System.Threading.Timer/4.3.0/ref/netstandard1.2/System.Threading.Timer.dll"
 -r:"/home/sarina/.nuget/packages/System.Xml.ReaderWriter/4.3.0/ref/netstandard1.3/System.Xml.ReaderWriter.dll"
 -r:"/home/sarina/.nuget/packages/System.Xml.XDocument/4.3.0/ref/netstandard1.3/System.Xml.XDocument.dll"
-"/home/sarina/2DO Semestre 2017/IPC2/IPC2_A/POO/Padre.cs"
-"/home/sarina/2DO Semestre 2017/IPC2/IPC2_A/POO/Tio.cs"
-"/home/sarina/2DO Semestre 2017/IPC2/IPC2_A/POO/Program.cs"
-"/home/sarina/2DO Semestre 2017/IPC2/IPC2_A/POO/Hijo.cs"
-"/home/sarina/2DO Semestre 2017/IPC2/IPC2_A/POO/Persona.cs"
+"/home/sarina/2DO Semestre 2017/IPC2/IPC2_A/Ejemplos/POO/Padre.cs"
+"/home/sarina/2DO Semestre 2017/IPC2/IPC2_A/Ejemplos/POO/Tio.cs"
+"/home/sarina/2DO Semestre 2017/IPC2/IPC2_A/Ejemplos/POO/Program.cs"
+"/home/sarina/2DO Semestre 2017/IPC2/IPC2_A/Ejemplos/POO/Hijo.cs"
+"/home/sarina/2DO Semestre 2017/IPC2/IPC2_A/Ejemplos/POO/Persona.cs"
