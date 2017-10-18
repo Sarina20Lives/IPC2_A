@@ -1,0 +1,39 @@
+{
+	"categorias":[
+		{
+			"codigo":"C0001",
+			"titulo":"Entretenimiento",
+			"descripción":"Material dedicado al entretenimiento"
+		},
+		{
+			"codigo":"C0002",
+			"titulo":"Infantil",
+			"descripción":"Material dedicado para los niños"
+		},
+		{
+			"codigo":"C0003",
+			"titulo":"Matematica",
+			"descripción":"Material utilizado para ejercicios matematicos"
+		},
+		{
+			"codigo":"C0004",
+			"titulo":"Fisica",
+			"descripción":"Contenido general de Fisica Fundamental"
+		},
+		{
+			"codigo":"C0005",
+			"titulo":"Estadistica",
+			"descripción":"Contenido de probabilidad y estadistica"
+		},
+		{
+			"codigo":"C0006",
+			"titulo":"Sociales",
+			"descripción":"Estudios sociales en general"
+		},
+		{
+			"codigo":"C0007",
+			"titulo":"Ingles",
+			"descripción":"Material de Ingles"
+		}
+	]
+}

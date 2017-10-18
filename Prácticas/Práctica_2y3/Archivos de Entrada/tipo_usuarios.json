@@ -1,0 +1,14 @@
+{
+	"tipo_usuarios":[
+		{
+			"codigo":"TU0781",
+			"titulo":"Admin",
+			"descripcion":"Este tipo de usuario puede realizar cualquier operación dentro del sistema"
+		}, 
+		{
+			"codigo":"TU7878",
+			"titulo":"General",
+			"descripcion":"Este tipo no puede crear ni eliminar a otros usuarios"
+		}
+	]
+}
