@@ -1,0 +1,24 @@
+{
+	"donadores":[
+		{
+			"codigo":"D8928109830-90",
+			"nombre":"Estela Gutierrez",
+			"correo":"estela@ipc2.com"
+		},
+		{
+			"codigo":"D7888899890-87",
+			"nombre":"Nuria Ortega",
+			"correo":"nuria@ipc2.com"
+		},
+		{
+			"codigo":"D3208304803-98",
+			"nombre":"David Lopez",
+			"correo":"david-lopez@ipc2.com"
+		},
+		{
+			"codigo":"D8708080809-76",
+			"nombre":"Armando Monzón",
+			"correo":"armando@ipc2.com"
+		}
+	]
+}

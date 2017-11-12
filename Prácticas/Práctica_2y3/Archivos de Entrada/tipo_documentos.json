@@ -1,0 +1,24 @@
+{
+	"tipo_documentos":[
+		{
+			"codigo":"TD0981",
+			"titulo":"Libro"
+		}, 
+		{
+			"codigo":"TD1122",
+			"titulo":"Revista"
+		}, 
+		{
+			"codigo":"TD6753",
+			"titulo":"Poemario"
+		}, 
+		{
+			"codigo":"TD654",
+			"titulo":"Tesis"
+		},
+		{
+			"codigo":"TD785",
+			"titulo":"Diccionario"
+		}
+	]
+}

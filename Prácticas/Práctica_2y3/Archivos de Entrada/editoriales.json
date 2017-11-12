@@ -1,0 +1,19 @@
+{
+	"editoriales": [
+		{
+			"codigo": "ED001",
+			"nombre": "Grupo Nelson",
+			"año": "1798"
+		},
+		{
+			"codigo": "ED7901",
+			"nombre": "Vintage Español",
+			"año": ""
+		},
+		{
+			"codigo": "ED8398",
+			"nombre": "Espasa-Calpe, S.A",
+			"año": "1913"
+		}
+	]
+}

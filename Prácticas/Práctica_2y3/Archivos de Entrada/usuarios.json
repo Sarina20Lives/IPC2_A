@@ -1,0 +1,40 @@
+{
+	"usuarios":[
+		{
+			"nickname":"admin",
+			"password":"admin",
+			"nombre":"admin",
+			"carnet":"200000000",
+			"dpi":"",
+			"tipo_usuario":"TU0781",
+			"telefono":""
+		},
+		{
+			"nickname":"esvux",
+			"password":"1234",
+			"nombre":"Esvin González",
+			"carnet":"200078278",
+			"dpi":"8989 78089 0101",
+			"tipo_usuario":"TU0781",
+			"telefono":"56544545"
+		},
+		{
+			"nickname":"lizy",
+			"password":"1234",
+			"nombre":"Elizabeth Beneth",
+			"carnet":"200012334",
+			"dpi":"1878 77837 0202",
+			"tipo_usuario":"TU7878",
+			"telefono":"65454345"
+		},
+		{
+			"nickname":"peter",
+			"password":"1234",
+			"nombre":"Peter Pan",
+			"carnet":"200012456",
+			"dpi":"2454 76454 0404",
+			"tipo_usuario":"TU7878",
+			"telefono":""
+		}
+	]
+}

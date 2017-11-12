@@ -1,0 +1,59 @@
+{
+	"libros":[
+		{
+			"codigo":"L6738579374",
+			"titulo":"Crucigramas, Sudoku",
+			"paginas":"315",
+			"estado":"E002",
+			"tipo":"TD0001",
+			"editorial":"ED001",
+			"autores":["A0001"],
+			"temas":["Sudoku", "Juegos", "Razonamiento", "Diversion"],
+			"categorias":["C0001", "C0003"]
+		},
+		{
+			"codigo":"L6348793749",
+			"titulo":"Bajo la Misma Estrella",
+			"paginas":"302",
+			"estado":"E1837",
+			"tipo":"TD0981",
+			"editorial":"ED7901",
+			"autores":["A2346445"],
+			"temas":["Cielo", "Romance", "Amor", "Cancer", "Motivacional"],
+			"categorias":["C0021", "C0001"]
+		},
+		{
+			"codigo":"L87876268789",
+			"titulo":"El Principito",
+			"paginas":"96",
+			"estado":"E1837",
+			"tipo":"TD0981",
+			"editorial":"",
+			"autores":["A00123445"],
+			"temas":["Esperanza", "Principito", "Motivacional", "Infantil"],
+			"categorias":["C0001", "C0002"]
+		},
+		{
+			"codigo":"L62589279300",
+			"titulo":"Otelo - El moro de Venecia",
+			"paginas":"90",
+			"estado":"E8837",
+			"tipo":"TD0981",
+			"editorial":"ED8398",
+			"autores":["A23467788"],
+			"temas":["Tragedia", "Ficcion"],
+			"categorias":["C0001"]
+		},
+		{
+			"codigo":"L93804333",
+			"titulo":"La Tragedia de Romeo y Julieta",
+			"paginas":"73",
+			"estado":"E8303",
+			"tipo":"TD0981",
+			"editorial":"ED8398",
+			"autores":["A23467788"],
+			"temas":["Romance", "Guerra", "Amor", "Tragedia", "Diferencia Social"],
+			"categorias":["C0001", "C0021", "C0006"]
+		}
+	]
+}

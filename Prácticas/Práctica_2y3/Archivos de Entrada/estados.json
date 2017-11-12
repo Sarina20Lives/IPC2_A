@@ -1,0 +1,24 @@
+{
+	"estados":[
+		{
+			"codigo":"E1837",
+			"titulo":"Optimas condiciones",
+			"descripción":"El libro presenta un estado como nuevo"
+		},	
+		{
+			"codigo":"E8303",
+			"titulo":"Buenas condiciones",
+			"descripción":"El libro está completo, en buen estado"
+		},	
+		{
+			"codigo":"E8837",
+			"titulo":"Levemente dañado",
+			"descripción":"El libro presenta daños menores en la pasta o en las páginas, puede ser manchas o dobleces"
+		},	
+		{
+			"codigo":"E8379",
+			"titulo":"Dañado",
+			"descripción":"El libro presenta daños mayores en la pasta o en las páginas, incluye falta de pasta u hojas"
+		}	
+	]
+}
